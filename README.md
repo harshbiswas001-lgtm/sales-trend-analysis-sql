@@ -33,7 +33,7 @@ Table Name: `online_sales`
 | amount | REAL |
 | product_id | INTEGER |
 
-# Output Screenshot:
+# Output Screenshot: <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/578e74d5-4fae-4d1a-bc2b-ccf0a40d0b65" />
 
 
 # SQL Query Used
