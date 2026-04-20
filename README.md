@@ -33,6 +33,8 @@ Table Name: `online_sales`
 | amount | REAL |
 | product_id | INTEGER |
 
+# Output Screenshot:
+
 
 # SQL Query Used
 
@@ -44,3 +46,4 @@ COUNT(order_id) AS total_orders
 FROM online_sales
 GROUP BY month
 ORDER BY month;
+
